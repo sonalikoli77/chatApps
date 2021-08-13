@@ -1,0 +1,73 @@
+.pro-cont{
+    padding:0px;
+}
+.siderow{
+    height:100vh;
+}
+.sidepro{
+    background-color: lightgray;
+    overflow: auto;
+    overflow-x: none;
+}
+.sidenav{
+    background-color:grey ;
+}
+.profile-title{
+    height:100px;
+    padding: 30px;
+    background-color: aliceblue;
+}
+.profile-btn{
+    font-size: larger;
+    font-weight: 900;
+    margin-right: 60px;
+}
+.profile-title{
+    font-size: larger;
+    font-weight: 900;  
+}
+.left{
+    font-size:30px;
+    margin-right: 30px;
+}
+.pop-up-profilepic{
+    height: 200px;
+    background-color: antiquewhite;
+}
+.pop-up-profilepic img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    margin-top: 22px;
+}
+
+.name-field i{
+     position: absolute;
+     margin-top: 40px;
+}
+.name-field i{
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 125px;
+}
+ .name-field input{
+    width: 100%;
+    height:100px;
+    margin-bottom: 10px;
+    border:none;
+ }
+ /* .scrollbar{
+     height:34%;
+     width: 322px;
+     
+     overflow-y: auto;
+} */
+.About-status{
+    background-color: white;
+}
+.side-image img{
+   width:100%;
+   height:100%; 
+}
+ 
+
